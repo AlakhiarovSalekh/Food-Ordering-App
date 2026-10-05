@@ -67,6 +67,8 @@ Configure the database using the SQL/database resources included with the projec
 
 Focused bug fixes, documentation improvements, database/setup corrections, and UI improvements are welcome.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Hotel Booking Management System](https://github.com/AlakhiarovSalekh/Hotel-Managment-System) — PHP/MySQL booking and administration application.
