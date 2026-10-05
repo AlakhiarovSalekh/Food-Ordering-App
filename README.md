@@ -32,7 +32,7 @@ To run this project locally, you'll need:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/SALEKH7/Food-Ordering-App
+git clone https://github.com/AlakhiarovSalekh/Food-Ordering-App.git
 ```
 
 2. Set up the MySQL database:
