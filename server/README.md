@@ -33,28 +33,18 @@ To run this project locally, you'll need:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Metsehafe-Eyasu/food-ordering-app-v2
+git clone https://github.com/AlakhiarovSalekh/Food-Ordering-App.git
 ```
 
 2. Set up the MySQL database:
 
    - Create a new database and import the provided SQL dump.
 
-3. Compile and run the server-side:
+3. Configure the server project under `server/`. The server entry point is `server/src/ServerApp.java`.
 
-```bash
-cd server
-javac Server.java
-java Server
-```
+4. Configure the client project under `client/`. The client entry point is `client/src/App.java`.
 
-4. Compile and run the client-side:
-
-```bash
-cd client
-javac Client.java
-java Client
-```
+Configure the required Java dependencies (including Gson and the MySQL connector) in your IDE/classpath before running the applications.
 
 ## Usage
 
