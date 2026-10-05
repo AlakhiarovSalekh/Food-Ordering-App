@@ -67,6 +67,12 @@ Configure the database using the SQL/database resources included with the projec
 
 Focused bug fixes, documentation improvements, database/setup corrections, and UI improvements are welcome.
 
+## More Projects by Salekh
+
+- [Hotel Booking Management System](https://github.com/AlakhiarovSalekh/Hotel-Managment-System) — PHP/MySQL booking and administration application.
+- [Inventory Management Desktop App](https://github.com/AlakhiarovSalekh/Inventory-App) — Python/PyQt inventory application.
+- [University Room Booking Application](https://github.com/AlakhiarovSalekh/University-Room-Booking-Application) — Java Swing/MVC booking system with JUnit tests.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
