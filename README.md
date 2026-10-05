@@ -1,4 +1,4 @@
-# Food Ordering App
+# Java Swing Food Ordering App — Client/Server & MySQL
 
 [![Java](https://img.shields.io/badge/Java-Swing-ED8B00?logo=openjdk&logoColor=white)](https://www.java.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
